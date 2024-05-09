@@ -27,10 +27,6 @@ Esta é minha primeira contribuição para o projeto open source, atualmente sou
 ![Docker](https://img.shields.io/badge/docker-333333?style=for-the-badge&logo=docker&logoColor=0E76A8)
 ![Dependabot](https://img.shields.io/badge/IA-333333?style=for-the-badge&logo=dependabot&logoColor=0E76A8)
 
-### Card - Most Used Languages Compact
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=David-Henriqu3&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
 ### Card - Repository
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=David-Henriqu3&repo=dio-lab-open-source&bg_color=000&border_color=0E76A8&show_icons=true&icon_color=0E76A8&title_color=0E76A8&text_color=FFF)](https://github.com/David-Henriqu3/dio-lab-open-source)
