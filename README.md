@@ -17,7 +17,6 @@ Esta é minha primeira contribuição para o projeto open source, atualmente sou
 ![MySQL](https://img.shields.io/badge/MySQL-333333?style=for-the-badge&logo=mysql&logoColor=0E76A8)
 ![Microsoft](https://img.shields.io/badge/Microsoft-333333?style=for-the-badge&logo=microsoft&logoColor=0E76A8)
 ![Linux](https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=0E76A8)
-![Linux](https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=0E76A8)
 
 
 ## Aprendendo
