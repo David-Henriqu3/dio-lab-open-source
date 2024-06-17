@@ -3,7 +3,7 @@
 
 Olá, 
 
-Esta é minha primeira contribuição para o projeto open source, atualmente sou analista de surpote 2n e estudando python com ênfase em IA.
+Esta é minha primeira contribuição para o projeto open source, atualmente sou analista de suporte 2n e estudando python com ênfase em IA.
 
 ## Minhas redes
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/david-henrique/)
